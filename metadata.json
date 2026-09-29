@@ -1,0 +1,11 @@
+{
+  "name": "J.A.R.V.I.S. Desktop AI Companion",
+  "description": "Cross-platform personal AI assistant with voice interaction, reactive holographic HUD, live waveform visualizer, computer hardware & window controls, persistent memory matrix, and Python plugin skills.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
